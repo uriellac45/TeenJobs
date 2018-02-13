@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706948579125",
+    "firebase_url": "https://teenjobs-14dad.firebaseio.com",
+    "project_id": "teenjobs-14dad",
+    "storage_bucket": "teenjobs-14dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706948579125:android:3923d0fc005464d7",
+        "android_client_info": {
+          "package_name": "com.example.user.teenjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706948579125-ffada978bcvr8ckag718gsmtuge0o0gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.teenjobs",
+            "certificate_hash": "fa11c285b1d9e32c1f56cb55ab40dbcb2bdc04d4"
+          }
+        },
+        {
+          "client_id": "706948579125-dnem910lp83tn7k4ulhaalgc7b3ovgik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClT72MWYBHyAXOicWwg3x-qJ6T5teAvjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706948579125-dnem910lp83tn7k4ulhaalgc7b3ovgik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

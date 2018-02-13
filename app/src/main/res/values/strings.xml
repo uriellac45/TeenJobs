@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TeenJobs</string>
+    <string name="login">כניסה</string>
+    <string name="sign_up">הרשמה</string>
+    <string name="password">הכנס סיסמה</string>
+    <string name="email">הכנס איימל</string>
+    <string name="teen">בן נוער</string>
+    <string name="employer">מעסיק</string>
+    <string name="Fname">הכנס שם מלא</string>
+    <string name="birthday"> הכנס תאריך לידה</string>
+    <string name="phone">הכנס מספר טלפון</string>
+    <string name="birthdayEX"> דוגמא 04.01.2000</string>
+    <string name="city">הכנס עיר מגורים</string>
+    <string name="Bname">הכנס שם עסק</string>
+    <string name="Bnum">הכנס מספר עסק מורשה</string>
+    <string name="end"> סיום הרשמה</string>
+    <string name="job_title">הכנס עיסוק</string>
+    <string name="hintDistrict">בחר מחוז</string>
+    <string-array name="DiscritArray">
+        <item>  <string name="district">הכנס מחוז</string></item>
+        <item> <string name="north">צפון</string></item>
+        <item> <string name="telaviv">תל אביב</string></item>
+        <item> <string name="haifa">חיפה</string></item>
+        <item><string name="center">מרכז</string></item>
+        <item><string name="jerusalem">ירושלים</string></item>
+        <item> <string name="south">דרום</string></item>
+    </string-array>
+</resources>
