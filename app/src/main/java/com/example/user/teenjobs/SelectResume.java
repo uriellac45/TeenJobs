@@ -102,6 +102,7 @@ public class SelectResume extends AppCompatActivity {
 
     public void end(View view) {
         String cv = "";
+
         boolean flag = true;
         int i = 0;
         while (i < ed_times.length && flag) {
